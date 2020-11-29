@@ -89,7 +89,7 @@ section {
 }
 
 #screen1 {
-    background:url(../img/1.jpg);
+    background:url(1.jpg);
     margin: auto;
     align-items: center;
     background-size: 100% 110%;
@@ -98,7 +98,7 @@ section {
 }
 
 #screen2 {
-    background:url(../img/1.jpg);
+    background:url(1.jpg);
     margin: auto;
     align-items: center;
     background-size: 100% 100%;
@@ -106,7 +106,7 @@ section {
 
 }
 #screen3 {
-    background:url(../img/fqhtlm.jpg);
+    background:url(fqhtlm.jpg);
     margin: auto;
     align-items: center;
     background-size: 100% 150%;
@@ -114,7 +114,7 @@ section {
   
 }
 #screen4{
-    background:url(../img/2.4.jpg);
+    background:url(2.4.jpg);
     margin: auto;
     align-items: center;
     background-size: 100% 110%;
@@ -127,7 +127,7 @@ section {
    
 }
 #screen5{
-    background:url(../img/2.5.jpg);
+    background:url(2.5.jpg);
     margin: auto;
     align-items: center;
     background-size: 100% 110%;
